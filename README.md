@@ -13,7 +13,7 @@ Un entorno de *Capture The Flag* con temática de *Neon Genesis Evangelion* para
 ## 📥 Cómo empezar  
 1. Descarga las OVAs.
 2. Registrate en la plataforma.
-3. ¡Captura las flags y evita el Tercer Impacto!.  
+3. ¡Captura las flags y desentraña el secreto que oculta NERV!.  
 
 DESCARGA DE LAS OVAS:
 https://mega.nz/file/PcNBnBzJ#6sQA6ws5QulKDJF0Cm-4FK4pvKCvHZqvKsm5jy5MZx0 
